@@ -1,0 +1,10 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["book-service", "gateway"],
+    "directoryPath": "../",
+    "jhipsterVersion": "8.0.0",
+    "jwtSecretKey": "YTEwYWU0OGM0OWE2NzRhMjcyODJhYWQ4NDRlYzcyYzg2NTJkZTYwYWRhYmY0YjAzNzNhNTI4ZTQwYWMyOTJkOWJkODllZmZlOGVkZWE3NjE1YWE4NmI1ZGQ3ZjVhZGYzMzRlYg==",
+    "monitoring": "no",
+    "serviceDiscoveryType": "consul"
+  }
+}
